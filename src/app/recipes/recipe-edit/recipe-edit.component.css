@@ -1,0 +1,12 @@
+.mr-1{
+margin-right: 1px;
+}
+
+.mb-2{
+    margin-bottom: 0.5rem;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched{
+    border:2px solid red
+}
